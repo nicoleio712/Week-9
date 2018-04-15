@@ -10,10 +10,10 @@ I actually found that the export was one of the trickiest part of the assignment
 
 ## Summary of Data:
 
-**number attacks:** 110 (in 6 hours)
+**number attacks:** 110 (in 6 hours on 4/12)
 
 **attack stats:**
-
+![](https://github.com/nicoleio712/Week-9/blob/master/week9_attack_stats.JPG)
 
 ## Unresolved Questions:
 
